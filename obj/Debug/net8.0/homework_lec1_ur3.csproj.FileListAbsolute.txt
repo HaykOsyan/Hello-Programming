@@ -1,0 +1,14 @@
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\bin\Debug\net8.0\homework_lec1_ur3.exe
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\bin\Debug\net8.0\homework_lec1_ur3.deps.json
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\bin\Debug\net8.0\homework_lec1_ur3.runtimeconfig.json
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\bin\Debug\net8.0\homework_lec1_ur3.dll
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\bin\Debug\net8.0\homework_lec1_ur3.pdb
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\obj\Debug\net8.0\homework_lec1_ur3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\obj\Debug\net8.0\homework_lec1_ur3.AssemblyInfoInputs.cache
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\obj\Debug\net8.0\homework_lec1_ur3.AssemblyInfo.cs
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\obj\Debug\net8.0\homework_lec1_ur3.csproj.CoreCompileInputs.cache
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\obj\Debug\net8.0\homework_lec1_ur3.dll
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\obj\Debug\net8.0\refint\homework_lec1_ur3.dll
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\obj\Debug\net8.0\homework_lec1_ur3.pdb
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\obj\Debug\net8.0\homework_lec1_ur3.genruntimeconfig.cache
+F:\Geek_brains\c#\lection_listening\homework_lec1_ur3\obj\Debug\net8.0\ref\homework_lec1_ur3.dll
